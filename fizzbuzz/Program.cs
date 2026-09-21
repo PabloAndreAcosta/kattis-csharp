@@ -20,3 +20,6 @@
 // STEG 2: skriv koden under den här raden.
 // ──────────────────────────────────────────────────────────────
 
+// Den här raden finns bara för att projektet ska gå att köra innan du börjat.
+// Ta bort den när du skriver din lösning.
+Console.WriteLine("Här kommer min lösning.");
