@@ -5,6 +5,8 @@ Lösningar till problem på [Kattis](https://open.kattis.com), skrivna i C#.
 Repot hör till test- och kartläggningsveckorna inför IT-påbyggnadsutbildningen
 Fullstackutvecklare .NET hos Lexicon, september 2026.
 
+Kattis-profil: https://open.kattis.com/users/pablo-acosta
+
 ## Lösningar
 
 | Problem | Mapp | Status |
