@@ -19,7 +19,6 @@
 //   4. Varje tal ska kontrolera delbarheten och skriva ut. 
 // STEG 2: skriv koden under den här raden.
 // ──────────────────────────────────────────────────────────────
-
 var input = Console.ReadLine().Split(' ');
 int x = int.Parse(input[0]);
 int y = int.Parse(input[1]);
