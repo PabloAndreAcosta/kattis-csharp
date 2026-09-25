@@ -30,4 +30,5 @@ string forsta = Console.ReadLine();
 string andra = Console.ReadLine(); 
 string tredje = Console.ReadLine();
 
-Console.WriteLine($"{forsta} {andra} {tredje}");
+//Console.WriteLine($"{forsta} {andra} {tredje}");
+Console.WriteLine($"{tredje} {andra} {forsta}");
