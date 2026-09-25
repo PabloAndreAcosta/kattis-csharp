@@ -19,8 +19,14 @@
   //  Console.WriteLine(i);
 //}
 
-int n = int.Parse(Console.ReadLine());
-for (int i = 1; i <= n; i++)
-{
-    Console.WriteLine($"{i} Abracadabra!");
-}
+//int n = int.Parse(Console.ReadLine());
+//for (int i = 1; i <= n; i++)
+//{
+  //  Console.WriteLine($"{i} Abracadabra!");
+//}
+
+string forsta = Console.ReadLine();
+string andra = Console.ReadLine(); 
+
+Console.WriteLine($"{forsta} {andra}");
+
