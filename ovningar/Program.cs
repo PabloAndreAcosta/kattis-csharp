@@ -25,8 +25,9 @@
   //  Console.WriteLine($"{i} Abracadabra!");
 //}
 
+Console.WriteLine("Skriv tre ord: ");
 string forsta = Console.ReadLine();
 string andra = Console.ReadLine(); 
+string tredje = Console.ReadLine();
 
-Console.WriteLine($"{forsta} {andra}");
-
+Console.WriteLine($"{forsta} {andra} {tredje}");
